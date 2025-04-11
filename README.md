@@ -28,7 +28,7 @@ The following technologies were used to build Group Note:
 - **Server-side:**
   - Node.js with Express for handling server-side logic and APIs.
   - Socket.io for real-time communication between clients and the server.
-  - MongoDB for data storage and retrieval.
+  - Google cloud for data storage and retrieval.
 
 - **Client-side:**
   - React.js for building the front-end user interface.
