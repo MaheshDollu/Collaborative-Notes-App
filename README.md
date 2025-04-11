@@ -13,9 +13,6 @@ Group Note is a collaborative note-taking application that allows teams and grou
 - [Usage](#usage)
 - [Server](#server)
 - [Client](#client)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
