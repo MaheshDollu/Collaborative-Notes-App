@@ -48,7 +48,8 @@ To set up Group Note locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/brkuhgk/GroupNotes
+git clone https://github.com/MaheshDollu/Collaborative-Notes-App.git
+
 
 
 2. Install dependencies for both the client and server:
