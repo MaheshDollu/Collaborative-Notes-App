@@ -71,11 +71,6 @@ npm run server
 npm run client
 
 
-3. Access the application in your web browser:
-
-http://localhost:3000/
-
-
 ## Server
 
 The server-side of Group Note is built with Node.js and Express. It handles real-time communication using Socket.io and stores note data in a MongoDB database. You can find the server code in the `server/` directory.
